@@ -1,0 +1,26 @@
+# ninja log v5
+13	542	6927349919786966	CMakeFiles/test_app.dir/main.cpp.obj	b0678243933f3d7a
+9	4585	6927344793599833	googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	87b361e187ac6372
+9500	12127	6927344869043961	lib/libgtest.a	3d4ee9674f125cca
+25	2536	6927344773144536	googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	909f6ba9fdfffd98
+16	3078	6927344778540109	googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj	47504773f61057a8
+32	9497	6927344842370285	googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	2f0342e32aed6099
+12127	12547	6927344873250252	lib/libgmock.a	1137088c57c4bf31
+12143	12255	6927344870340191	lib/libgtest_main.a	b39b0866cc683ec7
+12547	12651	6927344874301819	lib/libgmock_main.a	661f067627f7d6db
+543	698	6927349921265756	test_app.exe	f8e189aaa537345a
+17	664	6927349379074299	CMakeFiles/test_app.dir/calculus.cpp.obj	61c44a181be8ebb2
+22	3033	6927492057140942	CMakeFiles/test_app.dir/TESTS.cpp.obj	baa34a1ee602a323
+3034	6999	6927492096693356	test_app.exe	d8b5c060561febb9
+9	2146	6927492539223433	CMakeFiles/test_app.dir/TESTS.cpp.obj	baa34a1ee602a323
+2147	6084	6927492578501666	test_app.exe	d8b5c060561febb9
+13	2174	6927492773362209	CMakeFiles/test_app.dir/TESTS.cpp.obj	baa34a1ee602a323
+2175	6063	6927492812106172	test_app.exe	d8b5c060561febb9
+12	2310	6927492941004533	CMakeFiles/test_app.dir/TESTS.cpp.obj	baa34a1ee602a323
+2311	6190	6927492979679210	test_app.exe	d8b5c060561febb9
+8	2631	6927493446152689	CMakeFiles/test_app.dir/TESTS.cpp.obj	baa34a1ee602a323
+2631	6600	6927493485707769	test_app.exe	d8b5c060561febb9
+10	1803	6927496289239993	CMakeFiles/test_app.dir/TESTS.cpp.obj	baa34a1ee602a323
+1804	5724	6927496328342497	test_app.exe	d8b5c060561febb9
+7	1764	6927496464762223	CMakeFiles/test_app.dir/TESTS.cpp.obj	baa34a1ee602a323
+1765	5752	6927496504537503	test_app.exe	d8b5c060561febb9
